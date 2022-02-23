@@ -2,10 +2,14 @@
 permalink: /team/
 title: "Team"
 ---
-Principal Investigator Professor [Gerben Westerhof](https://people.utwente.nl/g.j.westerhof) of the University of Twente
+The following people are responsible for the day-to-day operations of the project:
 
-research software engineer [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/) from the Netherlands eScience Center
+Postdoctoral Researcher [Kevin Pijpers](https://people.utwente.nl/k.pijpers) of the University of Twente, Department Psychology, Health and Technology
 
-Assistant Professor [Anneke Sools](https://people.utwente.nl/a.m.sools) from the University of Twente 
+Research Software Engineer [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/) of the Netherlands eScience Center
 
-researcher [Stefan Bastholm Andrade](https://www.vive.dk/da/medarbejdere/stefan-bastholm-andrade-1634/)
+Senior Researcher [Stefan Bastholm Andrade](https://www.vive.dk/en/employees/stefan-bastholm-andrade-1634/) of the Danish Center for Social Science Research
+
+Assistant Professor [Anneke Sools](https://people.utwente.nl/a.m.sools) of the University of Twente, Department Psychology, Health and Technology
+
+Principal Investigator Professor [Gerben Westerhof](https://people.utwente.nl/g.j.westerhof) of the University of Twente, Department Psychology, Health and Technology

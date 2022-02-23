@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Kevin Pijpers:
+  name        : "Kevin Pijpers"
+  bio         : "Postdoctoral Researcher at University of Twente Department of Psychology, Health and Technology"
+  avatar      : "/assets/authors/kevin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:k.pijpers@utwente.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://people.utwente.nl/k.pijpers"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kevinpijpers"
+
+Erik Tjong Kim Sang:
+  name        : "Erik Tjong Kim Sang"
+  bio         : "Research Software Engineer at the Netherlands eScience Center"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:e.tjongkimsang@esciencecenter.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/"
