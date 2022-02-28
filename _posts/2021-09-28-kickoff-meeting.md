@@ -6,7 +6,7 @@ author: "Erik Tjong Kim Sang"
 Date: 2021-09-28
 ---
 
-![Photo by Clay Banks on Unsplash](images/clay-banks-TRGRf4LvMdQ-unsplash.jpg)
+![Photo by Clay Banks on Unsplash](/assets/images/clay-banks-TRGRf4LvMdQ-unsplash.jpg)
 
 <small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
   
