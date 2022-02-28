@@ -11,14 +11,17 @@ Kevin Pijpers:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://people.utwente.nl/k.pijpers"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kevinpijpers"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/kevinpijpers"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-8887-4316"
 
 Erik Tjong Kim Sang:
   name        : "Erik Tjong Kim Sang"
   bio         : "Research Software Engineer at the Netherlands eScience Center"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/authors/erik-nlesc-2020.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -26,3 +29,6 @@ Erik Tjong Kim Sang:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-8431-081X"
