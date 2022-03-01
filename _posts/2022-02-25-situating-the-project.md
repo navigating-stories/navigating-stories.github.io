@@ -6,7 +6,7 @@ author: "Kevin Pijpers"
 ---
 ![Photo by Alfons Morales on Unsplash](/assets/images/alfons-morales-YLSwjSy7stw-unsplash.jpg)
 
-<small>Photo by [Henry Be](https://unsplash.com/@alfonsmc10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
+<small>Photo by [Alfons Morales](https://unsplash.com/@alfonsmc10?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 
 As [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/) mentioned in [the first news update](/posts/2021-09-28-kickoff-meeting), he and [Stefan Andrade](https://www.vive.dk/en/employees/stefan-bastholm-andrade-1634/) have been working on the project for several months now, both part-time. One of the main roles of the project, a full-time post-doctoral researcher (me), started on the project in the beginning of this year. I'm very excited about this project, as it touches on many dimensions I find important and interesting to do. In this first news update, I will briefly elaborate on these dimensions.
 
