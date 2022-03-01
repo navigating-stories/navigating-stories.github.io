@@ -1,7 +1,7 @@
 ---
 layout: posts
 category: project-organization
-title:  "Situation the Project: Engaging Multiple Disciplines"
+title:  "Situating the Project: Engaging Multiple Disciplines"
 author: "Kevin Pijpers"
 ---
 As [Erik Tjong Kim Sang](https://www.esciencecenter.nl/team/dr-erik-tjong-kim-sang/) mentioned in [the first news update](/posts/2021-09-28-kickoff-meeting), he and [Stefan Andrade](https://www.vive.dk/en/employees/stefan-bastholm-andrade-1634/) have been working on the project for several months now, both part-time. One of the main roles of the project, a full-time post-doctoral researcher (me), started on the project in the beginning of this year. I'm very excited about this project, as it touches on many dimensions I find important and interesting to do. In this first news update, I will briefly elaborate on these dimensions.
