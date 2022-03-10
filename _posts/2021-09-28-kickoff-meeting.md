@@ -17,49 +17,6 @@ The project will last for three years.
 <small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 
 <div id="comments">
-  <script type="text/javascript">
-  var writeToComment = function(element, html) {
-    var element = document.createElement(element)
-    element.innerHTML = html
-    document.getElementById("comments").appendChild(element)
-  }
-
-  var loadComments = function(data) {
-    writeToComment("h2", "Comments")
-
-    for (var i = 0; i < data.length; i++) {
-      var commentHTML = [...]
-      writeToComment("div", commentHTML)
-    }
-
-    var callToAction = [...]
-    writeToComment("div", callToAction)
-  }
-
-  var writeFirstComment = function() {
-    var callToAction = [...]
-    writeToComment("div", callToAction)
-  }
-
-  // This is mostly there now: http://caniuse.com/#feat=fetch
-  if (window.fetch) {
-    var url =
-      "https://github-blog-comments.herokuapp.com/repos/navigating-stories/navigating-stories.github.io/issues/{{ page.comment_id }}/comments"
-
-    window
-      .fetch(url, { Accept: "application/vnd.github.v3.html+json" })
-      .then(function(response) {
-        return response.json()
-      })
-      .then(function(json) {
-        if(json.length) {
-          loadComments(json)
-        } else {
-          writeFirstComment()
-        }
-      })
-  }
-  </script>
   <h2>Comments</h2>
   {% if page.comment_id %}
     <article class='post'>
