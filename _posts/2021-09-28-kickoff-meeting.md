@@ -15,15 +15,3 @@ The project will last for three years.
 ![Photo by Clay Banks on Unsplash](/assets/images/clay-banks-TRGRf4LvMdQ-unsplash.jpg)
 
 <small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
-
-<div id="comments">
-  <h2>Comments</h2>
-  {% if page.comment_id %}
-    <article class='post'>
-      {% include gh_comments.html %}
-    </article>
-  {% endif %}
-  <div id="header">
-    Want to leave a comment? Visit <a href="https://github.com/navigating-stories/navigating-stories.github.io/issues/{{page.comment_id}}"> this post's issue page on GitHub</a> (you'll need a GitHub account).
-  </div>
-</div>
