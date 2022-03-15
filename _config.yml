@@ -9,8 +9,8 @@ repository: "navigating-stories/notebooks"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
 minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "dark", "contrast", "sunrise", "neon", "mint" "plum"
 permalink: /:categories/:title/
-#paginate: 5 
-#paginate_path: /page:num/
+paginate: 5 
+paginate_path: /page:num/
 show_excerpts: true
 show_date: true
 search: true
@@ -20,7 +20,7 @@ include:
   - _pages
 
 plugins:
-#  - jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -91,5 +91,3 @@ tag_archive:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-slate
